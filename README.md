@@ -6,7 +6,7 @@
 <h1 align="center">
   nvtale.com 
 </h1>
-<!--> <p align="center">
+<!-- <p align="center">
   The fourth iteration of <a href="https://brittanychiang.com" target="_blank">nvtale.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p> -->
 
