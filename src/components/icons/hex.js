@@ -19,3 +19,4 @@ const IconHex = () => (
 );
 
 export default IconHex;
+
