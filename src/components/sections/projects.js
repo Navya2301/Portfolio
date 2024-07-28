@@ -216,7 +216,7 @@ const Projects = () => {
     const { github, external, title, tech } = frontmatter;
 
     return (
-      <div className="project-inner" id="list-project">
+      <div className="project-inner">
         <header>
           <div className="project-top">
             <div className="folder">
@@ -262,14 +262,9 @@ const Projects = () => {
       </div>
     );
   };
-
   return (
-    <StyledProjectsSection>
-      <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
-
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view the archive
-      </Link>
+    <StyledProjectsSection id="projects">
+      <h2 ref={revealTitle}>Some Projects I've Built</h2>
 
       <ul className="projects-grid">
         {prefersReducedMotion ? (

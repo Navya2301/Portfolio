@@ -1,15 +1,15 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+date: '2024-07-12'
+title: 'Energy Cost Prediction Model'
+github: 'https://github.com/Navya2301/Oil-and-Energy-cost-prediction'
 external: ''
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
-showInProjects: false
+  - Python3
+  - Random Forest Model
+  - Machine Learning
+  - Pandas
+company: ''
+showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+A model to predict oil production rates using machine learning algorithms, which can be used for economic analysis and investment planning.
