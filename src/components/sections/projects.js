@@ -216,7 +216,7 @@ const Projects = () => {
     const { github, external, title, tech } = frontmatter;
 
     return (
-      <div className="project-inner">
+      <div className="project-inner" id="list-project">
         <header>
           <div className="project-top">
             <div className="folder">
