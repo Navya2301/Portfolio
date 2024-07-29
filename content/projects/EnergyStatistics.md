@@ -1,7 +1,7 @@
 ---
 date: '2024-07-08'
 title: 'Global Energy Statistics'
-github: ''
+github: 'https://github.com/Navya2301/Data-Analysis---Global-Energy-Statistics'
 external: ''
 tech:
   - Pandas
@@ -10,5 +10,5 @@ tech:
 company: ''
 showInProjects: true
 ---
-Data Analysis of a dataset that has comprehensive statistics on global energy production, consumption, and trade.
 
+Data Analysis of a dataset that has comprehensive statistics on global energy production, consumption, and trade.
