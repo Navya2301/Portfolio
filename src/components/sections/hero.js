@@ -65,8 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I’m a data scientist specializing in extracting valuable insights from complex data sets. Currently,
-       I’m focused on leveraging data to drive informed decision-making and innovative solutions.
+        I’m a software Engineer/data scientist who is specializing in extracting valuable insights
+        from complex data sets along with building things on web. Currently, I’m focused on
+        leveraging data to drive informed decision-making and innovative solutions.
       </p>
     </>
   );

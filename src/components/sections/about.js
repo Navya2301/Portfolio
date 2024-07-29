@@ -125,7 +125,14 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'TypeScript', 'Machine Learning', 'Data Science', 'Data Engineering', 'Java Script'];
+  const skills = [
+    'Python',
+    'TypeScript',
+    'Machine Learning',
+    'Data Science',
+    'Data Engineering',
+    'Java Script',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,26 +142,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Navya and I enjoy learning and creating things. 
-              My interest in Data Science and Development started back in 2020 when I got exposed to different technologies on web.
-              Building a custom application internally at work taught me so much and unlocked a new interest of mine. Ever since then I have been on
-              a quest to learn more about Me &amp; My interests!
+              I enjoy learning and creating things. My interest in Data Science and Development
+              started back in 2020 when I got exposed to different technologies on web. Building a
+              custom application internally at work taught me so much and unlocked a new interest of
+              mine. Ever since then I have been on a quest to learn more about Me &amp; My
+              interests!
             </p>
 
             <p>
               Fast-forward to today, I’ve had the privilege of working at{' '}
               <a href="https://www.rgare.com/">a reinsurance company</a>,{' '}
-              <a href="https://www.tcs.com/">a huge corporation</a>, and {' '} 
-              <a href="https://www.stumagz.com"> a start-up </a>. My
-              main focus these days is in building models, transforming data and little bit of web development. 
+              <a href="https://www.tcs.com/">a huge corporation</a>, and{' '}
+              <a href="https://www.stumagz.com"> a start-up </a>. My main focus these days is in
+              building models, transforming data and little bit of web development.
             </p>
 
             <p>
-              I also recently graduated in May, 2024 from {' '}
-              <a href="https://www.mst.edu/">
-                Missouri S&amp;T
-              </a>{' '}
-              , by completing Master's in Computer Science. 
+              I also recently graduated in May, 2024 from{' '}
+              <a href="https://www.mst.edu/">Missouri S&amp;T</a> , by completing Master's in
+              Computer Science.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
