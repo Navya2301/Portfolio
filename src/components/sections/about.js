@@ -127,7 +127,7 @@ const About = () => {
 
   const skills = [
     'Python',
-    'NLPt',
+    'NLP',
     'Machine Learning',
     'Data Science',
     'Data Engineering',
