@@ -61,14 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Navya Racha.</h2>;
-  const three = <h3 className="big-heading">I turn data into actionable insights.</h3>;
+  const three = <h3 className="big-heading">I build data pipelines that drive impact.</h3>;
   const four = (
     <>
       <p>
         I’m a dedicated professional turning complex data into insights, building robust, scalable
-        pipelines that power analytics, and creating impactful web solutions to drive data-driven
-        decisions. Currently, focusing on transforming data into robust, scalable pipelines that
-        power analytics and support data-driven decision-making.
+        pipelines that power analytics, and creating impactful web solutions. Currently focused on
+        building efficient, resilient data pipelines to enable data-driven decisions.
       </p>
     </>
   );
